@@ -1,2 +1,2 @@
 # tf-cert
-Tensorflow certification - course and exercises
+Tensorflow certification preparation - course and practice exercises
